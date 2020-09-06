@@ -1,0 +1,113 @@
+body {
+	background-image: url(https://images.wallpaperscraft.com/image/road_marking_evening_clouds_horizon_120298_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 2px 2px #6C0F17;
+	color: #11041A;
+}
+#mainpage {
+display: grid;
+justify-items: center;
+grid-gap: 100px;
+grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+
+}
+
+button {
+	width: 150px;
+	height: 75px;
+	cursor:pointer;
+}
+#A{
+	background-image: url(https://images.wallpaperscraft.com/image/road_marking_evening_clouds_horizon_120298_1920x1080.jpg);
+	background-size: cover;
+}
+#B{
+	background-image: url(https://images.wallpaperscraft.com/image/landscape_mountains_sun_140434_1920x1080.jpg);
+	background-size: cover;
+}
+#C{
+	background-image: url(https://images.wallpaperscraft.com/image/eruption_lava_volcano_oriental_cherry_tree_45542_1920x1080.jpg);
+	background-size: cover;
+}
+#D{
+	background-image: url(https://images.wallpaperscraft.com/image/boat_mountains_lake_135258_1920x1080.jpg);
+	background-size: cover;
+}
+#E{
+	background-image: url(https://images.wallpaperscraft.com/image/mountains_lake_grass_sky_summer_99494_1920x1080.jpg);
+	background-size: cover;
+}
+#F{
+	background-image: url(https://images.wallpaperscraft.com/image/mountains_cordillera_sky_sunset_sun_clouds_95556_1920x1080.jpg);
+	background-size: cover;
+}
+#G{
+	background-image: url(https://images.wallpaperscraft.com/image/field_sky_grass_122855_1920x1080.jpg);
+	background-size: cover;
+}
+#H{
+	background-image: url(https://images.wallpaperscraft.com/image/clouds_sky_abstract_88538_1920x1080.jpg);
+	background-size: cover;
+}
+#I{
+	background-image: url(https://images.wallpaperscraft.com/image/tree_light_dark_82372_1920x1080.jpg);
+	background-size: cover;
+}
+#J{
+	background-image: url(https://images.wallpaperscraft.com/image/rocks_sea_sunset_183534_1920x1080.jpg);
+	background-size: cover;
+}
+#K{
+	background-image: url(https://images.wallpaperscraft.com/image/cirrus_clouds_sky_clouds_183519_1920x1080.jpg);
+	background-size: cover;
+}
+#L{
+	background-image: url(https://images.wallpaperscraft.com/image/rocks_mountains_peaks_183366_1920x1080.jpg);
+	background-size: cover;
+}
+#M{
+	background-image: url(https://images.wallpaperscraft.com/image/ears_wheat_field_183323_1920x1080.jpg);
+	background-size: cover;
+}
+#N{
+	background-image: url(https://images.wallpaperscraft.com/image/girl_loneliness_alone_182828_1920x1080.jpg);
+	background-size: cover;
+}
+#O{
+	background-image: url(https://images.wallpaperscraft.com/image/mountains_rocks_horizon_182500_1920x1080.jpg);
+	background-size: cover;
+}
+
+#addurl {
+	filter: opacity(50%);
+	box-shadow: 1px 1px #6C0F17;
+}
+
+#Submit {
+	width: 50px;
+	height: 21px;
+	padding-bottom: 4px;
+	filter: opacity(50%);
+	box-shadow: 1px 1px #6C0F17;
+}
+
+.newButtonClass {
+	background-size: cover;
+}
+
+footer {
+position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+
+	font-size: 200%;
+	 font-weight: 900;
+}
